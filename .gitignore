@@ -1,0 +1,9 @@
+refs/
+data/
+checkpoints/
+wandb/
+*.pt
+*.bin
+.venv/
+__pycache__/
+.DS_Store
