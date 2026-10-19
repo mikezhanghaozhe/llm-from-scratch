@@ -13,3 +13,7 @@ Newest on top. Copy the template after each session.
 - Did: created repo and starter files
 - Learned: watched CS336 lectures 1.
 - Next: watched CS 336 lectures 2.
+
+## 2026-10-18 · M0
+- Learned: watched CS336 lectures 2.
+- Next: watched CS 336 lectures 3. Check CS336 lecture 1 questions.
